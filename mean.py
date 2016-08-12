@@ -1,4 +1,4 @@
-# file name: README.md
+# file name: mean.py
 # author: Ben Silbernagel
 # created: 5/27/2016
 # purpose: to calculate the mean from a data set plus alpha parameters
